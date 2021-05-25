@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![image](https://user-images.githubusercontent.com/55315604/119517622-665bc880-bd95-11eb-8180-e757390e7c9c.png)
+![image](https://user-images.githubusercontent.com/55315604/119525543-395ee400-bd9c-11eb-9657-ced0d243611b.png)
+
 
 🔭 I’m currently working as an Intern on Poornatha Partnering Entreprenuers Pvt Ltd as a Full Stack Developer
 
