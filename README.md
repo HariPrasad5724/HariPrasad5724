@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-https://camo.githubusercontent.com/0ecfd68856bedf2d56070afe2e2ff89780b1980a/68747470733a2f2f696d6167652e6962622e636f2f6a456b6364642f66726f6e745f656e645f646576656c6f706572735f6f70656e696e67735f312e676966
+
+![image](https://user-images.githubusercontent.com/55315604/119526730-43cdad80-bd9d-11eb-832a-6836f2857a7b.png)
 
 
 🔭 I’m currently working as an Intern on Poornatha Partnering Entreprenuers Pvt Ltd as a Full Stack Developer
@@ -25,7 +26,7 @@ https://camo.githubusercontent.com/0ecfd68856bedf2d56070afe2e2ff89780b1980a/6874
 
 💬 Ask me about Software Development and Web App Development
 
-📫 How to reach me https://www.linkedin.com/in/hari-prasad-9a66b215b/
+📫 How to reach me [Linkedin](https://www.linkedin.com/in/hari-prasad-9a66b215b/)
 
 Tools and Technologies I've came across
 
