@@ -104,7 +104,7 @@ Tools and Technologies I've came across
 ## Miscellaneous
 
 - [JSON](https://github.com/burningtree/awesome-json#readme) - Text based data interchange format.
-- [CSV](https://github.com/secretGeek/awesomeCSV#readme) - A text file format that stores tabular data and uses a comma to separate values.
-- [REST](https://github.com/marmelab/awesome-rest#readme)
 - [Continuous Integration and Continuous Delivery](https://github.com/cicdops/awesome-ciandcd#readme) - Jenkins,GitLabs
 - [REST API](https://www.redhat.com/en/topics/api/what-is-a-rest-api) 
+- [BlockChain](https://en.wikipedia.org/wiki/Blockchain)
+- Cyber Security and Ethical Hacking
