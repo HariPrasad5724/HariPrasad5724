@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 ![image](https://user-images.githubusercontent.com/55315604/119526730-43cdad80-bd9d-11eb-832a-6836f2857a7b.png)
 
 
-🔭 I’m currently working as an Intern on Poornatha Partnering Entreprenuers Pvt Ltd as a Full Stack Developer
+🔭 I’m currently working as an Intern on Sigaram Technologies as a Software Development Engineer Intern
 
-🌱 I’m currently learning MERN and MEAN Stack
+🌱 I’m currently working on MERN Stack
 
 👯 I’m working with GeeksforGeeks as a Student Chapter Lead and Campus Ambassador in CIT
 
@@ -40,6 +40,7 @@ Tools and Technologies I've came across
 - [Linux](https://github.com/inputsh/awesome-linux#readme)
 - [JVM](https://github.com/deephacks/awesome-jvm#readme)
 - [Amazon Web Services](https://github.com/donnemartin/awesome-aws#readme)
+- [Microsoft Azure] 
 - [Windows](https://github.com/Awesome-Windows/Awesome#readme)
 - [Heroku](https://github.com/ianstormtaylor/awesome-heroku#readme) - Cloud platform as a service.
 - [GNOME](https://github.com/Kazhnuz/awesome-gnome#readme) - Simple and distraction-free desktop environment for Linux.
@@ -63,19 +64,22 @@ Tools and Technologies I've came across
 ## Front-End Development
 - [CSS3](https://github.com/awesome-css-group/awesome-css#readme) - Style sheet language that specifies how HTML elements are displayed on screen.
 - [React](https://github.com/enaqx/awesome-react#readme) - App framework.
+- [Next JS] - App framework
 - [Angular](https://github.com/PatrickJS/awesome-angular#readme) - App framework.
 - [HTML5](https://github.com/diegocard/awesome-html5#readme) - Markup language used for websites & web apps.
 - [Redux](https://github.com/brillout/awesome-redux#readme) - State container for JavaScript apps.
+- [Redux Saga] - API calls
 
 ## Back-End Development
-- [Flask](https://github.com/mjhea0/awesome-flask#readme) - Python framework.
-- [Docker](https://github.com/veggiemonk/awesome-docker#readme)
 - [Django](https://www.djangoproject.com/)
+- [NodeJS] - Runtime environment 
 - [ExpressJS](https://expressjs.com/)
+- [PHP Yii]
+- [Azure Service Bus]
+- [Azure Functions]
 
 ## Editors
 
-- [Sublime Text](https://github.com/dreikanter/sublime-bookmarks#readme)
 - [Vim](https://github.com/mhinz/vim-galore#readme)
 - [Visual Studio Code](https://github.com/viatsko/awesome-vscode#readme) - Cross-platform open-source text editor.
 - [Netbeans](https://netbeans.apache.org/)
