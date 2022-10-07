@@ -18,11 +18,13 @@ Here are some ideas to get you started:
 ![image](https://user-images.githubusercontent.com/55315604/119526730-43cdad80-bd9d-11eb-832a-6836f2857a7b.png)
 
 
-🔭 I’m currently working as an Intern on Sigaram Technologies as a Software Development Engineer Intern
+🔭 Worked as an Intern on Sigaram Technologies as a Software Development Engineer Intern for 6 months
 
-🌱 I’m currently working on MERN Stack
+🌱 Have work experience on MERN Stack
 
-👯 I’m working with GeeksforGeeks as a Student Chapter Lead and Campus Ambassador in CIT
+👯 I’m part of GeeksforGeeks as a Ex Student Chapter Lead and President in CIT
+
+👯  Upcoming SDE @YULU 
 
 💬 Ask me about Software Development and Web App Development
 
