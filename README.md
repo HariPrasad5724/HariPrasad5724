@@ -45,10 +45,7 @@ Tools and Technologies I've came across
 - [Microsoft Azure] 
 - [Windows](https://github.com/Awesome-Windows/Awesome#readme)
 - [Heroku](https://github.com/ianstormtaylor/awesome-heroku#readme) - Cloud platform as a service.
-- [GNOME](https://github.com/Kazhnuz/awesome-gnome#readme) - Simple and distraction-free desktop environment for Linux.
-- [KDE](https://github.com/francoism90/awesome-kde#readme) - A free software community dedicated to creating an open and user-friendly computing experience.
 - [Flutter](https://github.com/Solido/awesome-flutter#readme) - Google's mobile SDK for building native iOS and Android apps from a single codebase written in Dart.
-- [Firebase](https://github.com/jthegedus/awesome-firebase#readme) - App development platform built on Google Cloud Platform.
 - [Android Studio](https://developer.android.com/studio/intro)
 
 ## Programming Languages
@@ -58,9 +55,7 @@ Tools and Technologies I've came across
 - [Go](https://github.com/avelino/awesome-go#readme)
 - [C](https://github.com/inputsh/awesome-c#readme)
 - [C/C++](https://github.com/fffaraz/awesome-cpp#readme) - General-purpose language with a bias toward system programming and embedded, resource-constrained software.
-- [Dart](https://github.com/yissachar/awesome-dart#readme)
 - [Java](https://github.com/akullpp/awesome-java#readme) - Popular secure object-oriented language designed for flexibility to "write once, run anywhere".
-- [PHP](https://github.com/ziadoz/awesome-php#readme) - Server-side scripting language.
 - [TypeScript](https://www.typescriptlang.org/)
 
 ## Front-End Development
@@ -76,7 +71,6 @@ Tools and Technologies I've came across
 - [Django](https://www.djangoproject.com/)
 - [NodeJS] - Runtime environment 
 - [ExpressJS](https://expressjs.com/)
-- [PHP Yii]
 - [Azure Service Bus]
 - [Azure Functions]
 
@@ -84,11 +78,9 @@ Tools and Technologies I've came across
 
 - [Vim](https://github.com/mhinz/vim-galore#readme)
 - [Visual Studio Code](https://github.com/viatsko/awesome-vscode#readme) - Cross-platform open-source text editor.
-- [Netbeans](https://netbeans.apache.org/)
 
 ## Development Environment
 
-- [Shell](https://github.com/alebcay/awesome-shell#readme)
 - [Command-Line Apps](https://github.com/agarrharr/awesome-cli-apps#readme)
 - [GitHub](https://github.com/phillipadsmith/awesome-github#readme) - Version Control with Git repositories.
 - [PowerShell](https://github.com/janikvonrotz/awesome-powershell#readme) - Cross-platform object-oriented shell.
@@ -108,11 +100,12 @@ Tools and Technologies I've came across
 - [Testing](https://github.com/TheJambo/awesome-testing#readme) - Software testing.
 - [Selenium](https://github.com/christian-bromann/awesome-selenium#readme) - Open-source browser automation framework and ecosystem.
 - [Jest](https://github.com/facebook/jest)
+- [Appium] (https://appium.io/)
+- [Rest Assured] (https://rest-assured.io/)
 
 ## Miscellaneous
 
 - [JSON](https://github.com/burningtree/awesome-json#readme) - Text based data interchange format.
 - [Continuous Integration and Continuous Delivery](https://github.com/cicdops/awesome-ciandcd#readme) - Jenkins,GitLabs
 - [REST API](https://www.redhat.com/en/topics/api/what-is-a-rest-api) 
-- [BlockChain](https://en.wikipedia.org/wiki/Blockchain)
 - Cyber Security and Ethical Hacking
