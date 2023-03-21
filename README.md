@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 👯 I’m part of GeeksforGeeks as a Ex Student Chapter Lead and President in CIT
 
-👯  Upcoming SDE @YULU 
+👯 SDE Intern @YULU Upcoming SDE @YUMA 
 
 💬 Ask me about Software Development and Web App Development
 
