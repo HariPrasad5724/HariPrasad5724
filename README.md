@@ -17,14 +17,16 @@ Here are some ideas to get you started:
 
 ![image](https://user-images.githubusercontent.com/55315604/119526730-43cdad80-bd9d-11eb-832a-6836f2857a7b.png)
 
+🔭 SDE Intern @YULU Bikes (Jan 2023 - Jun 2023)
 
-🔭 Worked as an Intern on Sigaram Technologies as a Software Development Engineer Intern for 6 months
+🔭 Currently working as Software Development Engineer 1 @YUMA Energy (July 2023 - Present)
 
-🌱 Have work experience on MERN Stack
+🔭 Worked as an SDE Intern on Sigaram Technologies as a Software Development Engineer Intern for 6 months
 
-👯 I’m part of GeeksforGeeks as a Ex Student Chapter Lead and President in CIT
 
-👯 SDE Intern @YULU Upcoming SDE @YUMA 
+👯 I’m part of GeeksforGeeks as a Ex Student Chapter Lead and GFG President in CIT
+
+
 
 💬 Ask me about Software Development and Web App Development
 
@@ -61,6 +63,7 @@ Tools and Technologies I've came across
 ## Front-End Development
 - [CSS3](https://github.com/awesome-css-group/awesome-css#readme) - Style sheet language that specifies how HTML elements are displayed on screen.
 - [React](https://github.com/enaqx/awesome-react#readme) - App framework.
+- [Vue3](https://vuejs.org/) - Web App framework
 - [Next JS] - App framework
 - [Angular](https://github.com/PatrickJS/awesome-angular#readme) - App framework.
 - [HTML5](https://github.com/diegocard/awesome-html5#readme) - Markup language used for websites & web apps.
@@ -69,7 +72,9 @@ Tools and Technologies I've came across
 
 ## Back-End Development
 - [Django](https://www.djangoproject.com/)
-- [NodeJS] - Runtime environment 
+- [NodeJS] - Runtime environment
+- [NestJS](https://nestjs.com/)
+- [SailsJS](https://sailsjs.com/)
 - [ExpressJS](https://expressjs.com/)
 - [Azure Service Bus]
 - [Azure Functions]
