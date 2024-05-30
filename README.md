@@ -17,11 +17,13 @@ Here are some ideas to get you started:
 
 ![image](https://user-images.githubusercontent.com/55315604/119526730-43cdad80-bd9d-11eb-832a-6836f2857a7b.png)
 
-🔭 SDE Intern @YULU Bikes (Jan 2023 - Jun 2023)
+🌱 Lives in Bengaluru!
 
-🔭 Currently working as Software Development Engineer 1 @YUMA Energy (July 2023 - Present)
+🔭 Currently working as Software Development Engineer 1 @YUMA Energy, Bengaluru (July 2023 - Present) 
 
-🔭 Worked as an SDE Intern on Sigaram Technologies as a Software Development Engineer Intern for 6 months
+🔭🔭 Software Development Engineer Intern at YULU Bikes (Jan 2023 - Jun 2023)
+
+🔭🔭🔭 Software Development Engineer Intern at Sigaram Technologies, Chennai (Jun 2021 - Dec 2021)
 
 
 👯 I’m part of GeeksforGeeks as a Ex Student Chapter Lead and GFG President in CIT
@@ -41,12 +43,7 @@ Tools and Technologies I've came across
 - [Frontend Development](https://github.com/dypsilon/frontend-dev-bookmarks#readme)
 - [Android](https://github.com/JStumpp/awesome-android#readme) - Mobile operating system developed by Google.
 - [React Native](https://github.com/jondot/awesome-react-native#readme) - JavaScript framework for writing natively rendering mobile apps for iOS and Android.
-- [Linux](https://github.com/inputsh/awesome-linux#readme)
-- [JVM](https://github.com/deephacks/awesome-jvm#readme)
 - [Amazon Web Services](https://github.com/donnemartin/awesome-aws#readme)
-- [Microsoft Azure] 
-- [Windows](https://github.com/Awesome-Windows/Awesome#readme)
-- [Heroku](https://github.com/ianstormtaylor/awesome-heroku#readme) - Cloud platform as a service.
 - [Flutter](https://github.com/Solido/awesome-flutter#readme) - Google's mobile SDK for building native iOS and Android apps from a single codebase written in Dart.
 - [Android Studio](https://developer.android.com/studio/intro)
 
@@ -64,41 +61,25 @@ Tools and Technologies I've came across
 - [CSS3](https://github.com/awesome-css-group/awesome-css#readme) - Style sheet language that specifies how HTML elements are displayed on screen.
 - [React](https://github.com/enaqx/awesome-react#readme) - App framework.
 - [Vue3](https://vuejs.org/) - Web App framework
-- [Next JS] - App framework
+- [Next JS](https://nextjs.org/) - App framework
 - [Angular](https://github.com/PatrickJS/awesome-angular#readme) - App framework.
 - [HTML5](https://github.com/diegocard/awesome-html5#readme) - Markup language used for websites & web apps.
 - [Redux](https://github.com/brillout/awesome-redux#readme) - State container for JavaScript apps.
 - [Redux Saga] - API calls
 
 ## Back-End Development
-- [Django](https://www.djangoproject.com/)
-- [NodeJS] - Runtime environment
 - [NestJS](https://nestjs.com/)
 - [SailsJS](https://sailsjs.com/)
 - [ExpressJS](https://expressjs.com/)
-- [Azure Service Bus]
-- [Azure Functions]
-
-## Editors
-
-- [Vim](https://github.com/mhinz/vim-galore#readme)
-- [Visual Studio Code](https://github.com/viatsko/awesome-vscode#readme) - Cross-platform open-source text editor.
-
-## Development Environment
-
-- [Command-Line Apps](https://github.com/agarrharr/awesome-cli-apps#readme)
-- [GitHub](https://github.com/phillipadsmith/awesome-github#readme) - Version Control with Git repositories.
-- [PowerShell](https://github.com/janikvonrotz/awesome-powershell#readme) - Cross-platform object-oriented shell.
-
+- [Django](https://www.djangoproject.com/)
+- [Azure Service Bus](https://azure.microsoft.com/)
+- [Azure Functions](https://azure.microsoft.com/)
 
 ## Databases
 
-- [Database](https://github.com/numetriclabz/awesome-db#readme)
 - [MySQL](https://github.com/shlomi-noach/awesome-mysql#readme)
 - [Oracle](https://www.oracle.com/in/database/)
-- [MongoDB](https://github.com/ramnes/awesome-mongodb#readme) - NoSQL database.
-- [NoSQL Guides](https://github.com/erictleung/awesome-nosql-guides#readme) - Help on using non-relational, distributed, open-source, and horizontally scalable databases.
-
+- [MongoDB](https://github.com/ramnes/awesome-mongodb#readme) - NoSQL database.elp on using non-relational, distributed, open-source, and horizontally scalable databases.
 
 ## Testing
 
